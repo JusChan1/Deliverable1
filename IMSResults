@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns = "http://www.w3.org/1999/xhtml">
+<head>
+<title> IMS </title>
+<link rel="stylesheet" href="IMSResults.css" type="text/css"/>
+</head>
+
+<body>
+<div class="top">
+<img src="https://swe.umbc.edu/~juschan1/436/Project/IMSImage.png" height="150px" width="400px" alt="banner"/>
+</div>
+
+
+	</head>
+		<body>
+<h1 class="movietitle">
+Inventory Management System</h1>
+
+<br/>
+<br/>
+
+<br/>
+
+<div class="main">
+
+	<div class="rating">
+		<div class="table"
+		<div id="nav">				
+				<table border = "3" width="100%">
+					<tr> 
+						<th><a href="https://swe.umbc.edu/~juschan1/436/Project/HomePage.html"/>Home</th>
+						<th>Register or Sign In</th>
+						<th><a href = "https://swe.umbc.edu/~juschan1/436/Project/IMSPage.html"/>IMS System</th>
+						<th>Products</th>
+						<th>Privacy Policy</th>
+						<th>Contact Us</th>
+					</tr>
+				</table>
+		</div>
+				<div class="search">
+				<form class="" align="right" action="">
+					<input type="text" placeholder="Search..." size="50" name="search">
+				</form>
+		<p>		</div>
+</p>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<div class ="infosys">
+	<h1 align="center"> Success! </h1>
+</div>
+		<div class = "desc">	
+		<div class= "course">
+		<div id="tb">
+		<div id="tab">
+		<h4>
+		Here are your results :
+		</h4>
+		<table border = "3" width = "1000px" height="500px" align="center">
+		<tr>
+		<th>Items ID / Name</th>
+		<th>Items Added / Removed</th>
+		<th>Item Prices Changed</th>
+	    <th>Categorized</th>
+		<th>Item availability</th>
+		</tr>
+		<tr align="center">
+			<td>
+					<textarea cols="30" rows="3">245235 / Yellow Hat</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">10.99 --> 5.00</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">4 at Warehouse1
+				3 at Warehouse2</textarea>
+			</td>
+
+		</tr>
+		<tr align="center">
+			<td>
+					<textarea cols="30" rows="3">108259 / Blue Jeans	</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">NULL --> Pants</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+
+
+		</tr>
+			<tr align="center">
+			<td>
+					<textarea cols="30" rows="3">863156 / Grey Shirt</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">0 at Warehouse1
+					2 at Warehouse2</textarea>
+			</td>
+
+		</tr>
+
+		
+		<tr align="center">
+			<td>
+					<textarea cols="30" rows="3">133412 /</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">133412 has been removed</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3"></textarea>
+
+		</tr>
+		<tr align="center">
+			<td>
+					<textarea cols="30" rows="3">123456 / Black Shoes</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">123456 / Black Shoes has been added</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">NULL --> 10.00</textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">NULL --> Shoes </textarea>
+			</td>
+			<td>
+					<textarea cols="30" rows="3">NULL --> 10 at Warehouse1</textarea>
+
+		</tr>
+
+		</table>
+				<br/>
+
+<form action="https://swe.umbc.edu/~juschan1/436/Project/IMSPage.html">
+							<input class="contact" type="submit" value="Return to IMS" />
+					</form>
+		
+					
+					
+	</div>
+	</div>
+	</div>
+	</div>
+	
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+		</div>
+	
+	</body>
+</html>
